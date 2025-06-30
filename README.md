@@ -1,6 +1,8 @@
 Text to Math Problem Solver using Google Gemma 2
 ================================================
 
+Web-App Link -> https://mathsolverusinggemma.streamlit.app/
+
 This is a Streamlit-based web application that uses the **Gemma 2 LLM** (via Groq API) to solve math problems, perform logical reasoning, and fetch relevant information from Wikipedia.
 
 🧮 Features
