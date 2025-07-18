@@ -71,7 +71,7 @@ Whether it's fixing bugs, improving logic, optimizing prompts, or enhancing UI�
 3. Commit your changes (`git commit -m 'Add feature xyz'`)
 4. Push to the branch (`git push origin feature-xyz`)
 5. Open a Pull Request
-6. 
+
 🙋 Author
 ---------
 👨‍💻 Prince Chauhan  
