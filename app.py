@@ -18,7 +18,7 @@ if not groq_api_key:
     st.info("Please add your Groq APPI key to continue")
     st.stop()
 
-llm=ChatGroq(model="Gemma2-9b-It",groq_api_key=groq_api_key)
+llm=ChatGroq(model="llama-3.1-8b-instant",groq_api_key=groq_api_key)
 
 
 ## Initializing the tools
