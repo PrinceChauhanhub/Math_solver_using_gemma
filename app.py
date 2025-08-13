@@ -8,8 +8,8 @@ from langchain.agents import Tool, initialize_agent
 from langchain.callbacks import StreamlitCallbackHandler
 
 ## Set upi the Stramlit app
-st.set_page_config(page_title="Text To MAth Problem Solver And Data Serach Assistant",page_icon="🧮")
-st.title("Text To Math Problem Solver Uing Google Gemma 2")
+st.set_page_config(page_title="Text To Math Problem Solver And Data Serach Assistant",page_icon="🧮")
+st.title("Text To Math Problem Solver ")
 
 groq_api_key=st.sidebar.text_input(label="Groq API Key",type="password")
 
